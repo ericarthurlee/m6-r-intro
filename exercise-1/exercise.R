@@ -22,4 +22,4 @@ total.cost <- 200
 too.expensive <- total.cost > 1000
 
 # Create a variable `max.puppies`, which is the nuber of puppies you can afford for $1K.
-max.puppies <- 10
+max.puppies <- 1000 / puppy.price
